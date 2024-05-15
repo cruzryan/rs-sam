@@ -6,3 +6,6 @@
 Note: Very bad 3D reconstruction depending on the angle, much to improve! wrote this in like 3h
 
 Note: Realsense D415 SUCKS! will try with DINOv2 and raw pictures next!
+
+Example:
+![example](https://i.imgur.com/3PxsGSS.png)
